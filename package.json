@@ -1,0 +1,20 @@
+{
+    "name": "prepperslack",
+    "version": "1.0.0",
+    "description": "slack app for prepper",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm test"
+    },
+    "author": "Awdesh Sharma <awdesh.sharma1@gmail.com> (http://awdesh.com/)",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.17.1",
+        "debug": "^2.6.3",
+        "express": "^4.15.2",
+        "slapp": "^2.3.0",
+        "slapp-context-beepboop": "^1.4.0",
+        "slapp-convo-beepboop": "^1.0.1",
+        "superagent": "^3.5.2"
+    }
+}
